@@ -1,6 +1,6 @@
 ## Salve, sou o Lucas Novaes vulgo LucasSghis 😉
 
-- 🔭 Atualmente, atuo na área comercial da HubCount, a maior empresa de BI do Brasil.
+- 🔭 Atualmente, atuando na área comercial da HubCount, a maior empresa de BI do Brasil.
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas na FIAP
 - 📚 Fora a faculdade estou aprofundando meus conhecimentos em Javascript e iniciando Typescript
 - 🎯 Objetivo : O meu objetivo é me tornar um desenvolvedor Fullstack
